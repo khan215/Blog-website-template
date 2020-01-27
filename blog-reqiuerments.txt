@@ -1,0 +1,26 @@
+RFonts:
+
+Bold Script for Titles font size: 34px - 36px
+Bold Script for Headings font size: 30px
+Sofia Pro/Troia for body text font size: 14px- 17px
+https://www.fontsquirrel.com/fonts/sofia-pro?q%5Bterm%5D=Sofia+&q%5Bsearch_check%5D=Y
+
+light Website color:
+
+body: #fff
+section background: #D8FFBA
+buttons/links: #86C951
+Heading/font: #252525
+
+
+Dark Website color:
+
+body: #262626
+section background: #D8FFBA
+buttons/links: #86C951
+Heading/font: #fff/#252525
+
+
+BLog Categories:
+
+News, Entertainment, Science, Technology, sports, career guidance
